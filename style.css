@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+  }
+
+  .container {
+    color: rgba(255, 255, 255, 0.904);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to right, #9cecfb, #65c7f7, #0052d4); ;
+  }
+  h1 {
+    font-size: 100px;
+  }
